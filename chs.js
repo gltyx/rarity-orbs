@@ -86,7 +86,7 @@ var cnItems = {
     "Duplicate all current orbs!": "复制所有当前的宝珠!",
     "Decrease interval": "减少间隔时间",
     "Exotic": "奇异",
-    "": "",
+    "Ethereal": "空灵",
     "": "",
     "": "",
     "": "",
